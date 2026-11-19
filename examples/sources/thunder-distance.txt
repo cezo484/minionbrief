@@ -1,0 +1,11 @@
+Thunder is the sound made when lightning rapidly heats the air around the
+bolt. The heated air expands faster than the speed of sound, creating a
+shock wave that we hear as a clap or a rumble. A nearby strike sounds like
+a sharp crack; a distant strike sounds like a long, low rumble because the
+sound waves scatter and the higher frequencies fade first.
+
+You can estimate how far away a strike was by counting the seconds between
+the flash and the thunder. Sound covers roughly one kilometre in three
+seconds, so dividing the count by three gives the distance in kilometres.
+For example, a nine second gap means the strike was about three kilometres
+away.

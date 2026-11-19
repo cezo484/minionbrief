@@ -1,0 +1,10 @@
+Lightning safety guidance starts with a simple rule: when thunder roars,
+go indoors. A sturdy building or a hard-topped car is the safest place
+during a storm. Open fields, hilltops, isolated trees, and water should be
+avoided until 30 minutes after the last thunder is heard.
+
+The distance rule used in safety guides counts the seconds between the
+flash and the thunder and divides by five to get the distance in miles.
+A ten second gap means the storm is about two miles away. If the gap is
+30 seconds or less, the storm is close enough to be dangerous and shelter
+should be sought at once.
